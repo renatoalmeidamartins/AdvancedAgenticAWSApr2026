@@ -35,3 +35,7 @@
 - [Recuperar registros de memória no AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-retrieve-records.html)
 - [Conversation managers no Strands - possibilitam resumir o contexto](https://strandsagents.com/docs/user-guide/concepts/agents/conversation-management/)
 - [Chamar ferramentas via agentcore gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [OWASP top 10 para applications LLM de 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
+- [Ameaças e mitigações para sistemas baseados em Agentic AI](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+- [Documentação de políticas Cedar](https://docs.cedarpolicy.com/)
+- [Linguagem Cedar no Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
