@@ -14,3 +14,5 @@
 # Links do curso
 - [Anúncio do Agent Registry disponível no AgentCore](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
 - [Colaboração multi-agentes na "prescriptive guidance" para agentes da AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/multi-agent-collaboration.html)
+- [Matriz de escopos de segurança para sistemas baseados em IA generativa](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
+- [Lente de GenAI para a Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
