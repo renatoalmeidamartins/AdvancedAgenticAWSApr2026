@@ -18,3 +18,4 @@
 - [Lente de GenAI para a Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
 - [Definição de um agent card exposto por A2A](https://agent2agent.info/docs/concepts/agentcard/)
 - [Padròes de orquestração multi-agente suportados pelo Strands](https://strandsagents.com/docs/user-guide/concepts/multi-agent/multi-agent-patterns/)
+- [Anúncios do fim de 2025 sobre cloud operations, muito envolvendo IA](https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/)
