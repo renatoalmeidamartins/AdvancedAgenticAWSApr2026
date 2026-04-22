@@ -27,3 +27,4 @@
 - [Understanding context engineering for generative AI](https://docs.aws.amazon.com/prescriptive-guidance/latest/gen-ai-lifecycle-operational-excellence/dev-experimenting-context.html)
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [8 billion tokens a day forced AT&T to rethink AI orchestration — and cut costs by 90%](https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut)
+- [Structured output, uso de schemas para definir formatos de resposta usando Strands - Pydantic por trás das cortinas](https://strandsagents.com/docs/user-guide/concepts/agents/structured-output/)
