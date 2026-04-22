@@ -34,3 +34,4 @@
 - [AgenticAI Memory Patterns with Strands SDK](https://builder.aws.com/content/2z6ITJXONL0Lu9nrkWopb3mLIQU/agenticai-memory-patterns-with-strands-sdk)
 - [Recuperar registros de memória no AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-retrieve-records.html)
 - [Conversation managers no Strands - possibilitam resumir o contexto](https://strandsagents.com/docs/user-guide/concepts/agents/conversation-management/)
+- [Chamar ferramentas via agentcore gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
