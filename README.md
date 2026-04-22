@@ -40,3 +40,4 @@
 - [Documentação de políticas Cedar](https://docs.cedarpolicy.com/)
 - [Linguagem Cedar no Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
 - [Lente de responsible AI para well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/responsible-ai-lens/responsible-ai-lens.html)
+- [Prompts utilizados nas métricas diversas geradas via Bedrock Evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
