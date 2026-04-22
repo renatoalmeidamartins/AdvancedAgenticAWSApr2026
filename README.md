@@ -39,3 +39,4 @@
 - [Ameaças e mitigações para sistemas baseados em Agentic AI](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
 - [Documentação de políticas Cedar](https://docs.cedarpolicy.com/)
 - [Linguagem Cedar no Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
+- [Lente de responsible AI para well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/responsible-ai-lens/responsible-ai-lens.html)
