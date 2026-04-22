@@ -13,3 +13,4 @@
 
 # Links do curso
 - [Anúncio do Agent Registry disponível no AgentCore](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
+- [Colaboração multi-agentes na "prescriptive guidance" para agentes da AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/multi-agent-collaboration.html)
