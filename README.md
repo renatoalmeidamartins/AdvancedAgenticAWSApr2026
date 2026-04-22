@@ -22,3 +22,8 @@
 - [Estratégias de memória no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-strategies.html)
 - [Descrição de alto nível de memória no AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html)
 - [Blog implementando as várias estratégias de memória no AgentCore](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
+- [Recomendações do Bedrock para um bom prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)\
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Understanding context engineering for generative AI](https://docs.aws.amazon.com/prescriptive-guidance/latest/gen-ai-lifecycle-operational-excellence/dev-experimenting-context.html)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- 
