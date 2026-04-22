@@ -16,3 +16,4 @@
 - [Colaboração multi-agentes na "prescriptive guidance" para agentes da AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/multi-agent-collaboration.html)
 - [Matriz de escopos de segurança para sistemas baseados em IA generativa](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
 - [Lente de GenAI para a Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
+- [Definição de um agent card exposto por A2A](https://agent2agent.info/docs/concepts/agentcard/)
